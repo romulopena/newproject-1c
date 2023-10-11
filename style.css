@@ -6,3 +6,9 @@ p{
 #imagem1{
     width: 200px;
 }
+
+.conteudo-listas{
+    background-color: #CCCCCC;
+    color: black;
+    text-decoration: italic;
+}
