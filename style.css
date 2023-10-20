@@ -21,3 +21,10 @@ p{
     color: black;
     text-decoration: italic;
 }
+
+.rodape{
+    background-color: black;
+    color: cornflowerblue;
+    text-align: center;
+    border: double 2px white;
+}
