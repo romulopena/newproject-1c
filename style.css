@@ -1,10 +1,19 @@
+.corpo{
+    background-color: cadetblue;
+}
+
+.cabecalho{
+    border: solid 3px #570303;
+    color: white;
+    text-align: center;
+}
 p{
     text-align:center;
     color:red;
     
 }
 #imagem1{
-    width: 200px;
+    width: 500px;
 }
 
 .conteudo-listas{
